@@ -1,1 +1,3 @@
 Hello, my name is Jonathan. At the time of writing this text file I am trying to integrate myself into the world of tech and data analytics.
+
+To add to this file, I am doing a demo/ into into Git, as taught by UC Berkeley and managed/ guided by Emeritus.
